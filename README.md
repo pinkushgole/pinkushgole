@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pinkushgole&label=Profile%20views&color=0e75b6&style=flat" alt="pinkushgole" /> </p>
 
-- 💬 Ask me about **Java and Spring Boot**
+- 💬 Ask me about **Java , Spring Boot , Python , Django**
 
 - 📫 How to reach me **golepinkush@gmail.com**
 
